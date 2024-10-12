@@ -1,0 +1,11 @@
+---
+layout: default
+title: Patch Notes
+---
+
+<div class="content">
+  {% capture readme %}{% include_relative README.md %}{% endcapture %}
+  {{ readme | markdownify }}
+</div>
+
+<link rel="stylesheet" href="/assets/css/dark-mode.css">
