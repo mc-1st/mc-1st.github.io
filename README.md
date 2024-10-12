@@ -22,5 +22,7 @@ Additionally, on this island, you can complete a DAILY quest, which offers vario
 - Money
 - 1st points
 - Custom experience (one full level)
+
 ---
+
 ## SOON..
