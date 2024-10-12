@@ -1,7 +1,7 @@
 <div align="center">
-  
-# MC-1ST.RO
-## SKYCOON - NETHER UPDATE (12/10/2024)
+
+<h1>MC-1ST.RO</h1>
+<h2>SKYCOON - NETHER UPDATE (12/10/2024)</h2>
 
 </div>
 
@@ -28,7 +28,7 @@ Additionally, on this island, you can complete a DAILY quest, which offers vario
 
 ---
 <div align="center">
-  
-## SOON..
+
+<h2>SOON...</h2>
 
 </div>
