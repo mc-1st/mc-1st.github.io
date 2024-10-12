@@ -1,37 +1,9 @@
 ---
-layout: default
+layout: custom
 title: Patch Notes
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Titlul paginii -->
-    <title>mc-1st.ro | Patch Notes</title>
-    <link rel="icon" type="image/gif" href="https://imgur.com/JVx5QTq.png">
-
-    <!-- Meta tag-uri SEO -->
-    <meta name="author" content="padrewin">
-    
-    <!-- Meta tag-uri pentru rețele sociale (Open Graph pentru Facebook, Twitter Cards etc.) -->
-    <meta property="og:title" content="konsole">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://mc-1st.github.io/patch-notes.html">
-    <meta property="og:image" content="hhttps://imgur.com/JVx5QTq.png">
-    <meta property="og:image:width" content="100" />
-    <meta property="og:image:height" content="100" />
-    <meta property="og:image:type" content="image/png">
-
-    <link rel="stylesheet" href="/assets/css/dark-mode.css">
-</head>
-
-<body>
-    <div class="content">
-      {% capture readme %}{% include_relative README.md %}{% endcapture %}
-      {{ readme | markdownify }}
-    </div>
-</body>
-</html>
+<div class="content">
+  {% capture readme %}{% include_relative README.md %}{% endcapture %}
+  {{ readme | markdownify }}
+</div>
