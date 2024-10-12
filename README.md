@@ -1,19 +1,24 @@
-Lorem ipsum odor amet, consectetuer adipiscing elit. Sem at mollis dis posuere cubilia imperdiet pulvinar nisi. Ahendrerit at ante at etiam rutrum. Mus tincidunt consequat lorem tempus litora. Lobortis mus velit fringilla justo ipsum. Lacus aliquam odio sed urna rutrum amet. Enim ipsum tincidunt elit platea vivamus mi ornare. Feugiat mi ex quis cursus nibh proin id aliquam.
+# SKYCOON - NETHER UPDATE (12/10/2024)
 
-Cursus cubilia a eros ornare proin; consequat nibh hac lacus. Parturient faucibus porta erat pulvinar quisque pellentesque sit felis. Aliquam maximus congue himenaeos volutpat fames non etiam. Parturient commodo rutrum iaculis fermentum vestibulum magna pharetra. Quam ut elementum ex nunc euismod. Quisque nunc at fusce auctor iaculis dignissim ad.
+![image](https://github.com/user-attachments/assets/ebfa9af8-8622-462c-92bb-6a158e5214bb)
 
-Aex taciti leo dolor vehicula rutrum proin penatibus. Euismod turpis viverra lectus est dapibus. Porta ad finibus; etiam class placerat blandit quam habitant. Metus praesent dui rutrum arcu efficitur sagittis potenti. Justo hac a diam lectus consectetur in. Conubia sem varius suspendisse taciti maecenas orci ridiculus. Platea congue varius augue platea hendrerit quis lobortis.
+We have added a new region, accessible via `/warp nether`.
 
-Viverra magnis maecenas duis nullam arcu sit, senectus porttitor risus. Dignissim at nam urna consequat hendrerit dolor finibus. Ullamcorper arcu vel turpis ut; semper vestibulum potenti. Laoreet nibh finibus dapibus mus, est magnis. Volutpat odio suscipit cursus feugiat nam. Convallis vehicula pharetra; arcu nisi pulvinar platea amet.
+To enter this region, you need to be level 100 ⭐ <br>
+(Which is also the level where you unlock your own Nether island)
 
-Habitasse blandit donec elementum class arcu semper tortor. Sollicitudin elementum at ut dictumst consectetur platea euismod. Gravida elit mauris litora proin nec. Lobortis vulputate ut id aenean convallis erat id consectetur. Vulputate neque conubia adipiscing erat sodales ullamcorper. Aptent penatibus nam urna primis ullamcorper. Curabitur pharetra vehicula lacinia morbi malesuada placerat. Adipiscing duis malesuada felis habitant et augue. Massa eget lobortis id fames sem senectus augue. Nisi vehicula orci sollicitudin varius dignissim fames dictumst adipiscing.
+On this island, Ghasts spawn frequently. When you kill them,<br>
+you receive more Crystals, which can be used to upgrade your OmniTool.
 
-Velit sapien in lobortis ullamcorper nostra diam. Tempus dui mauris vulputate rutrum tortor adipiscing pulvinar mus et. Ridiculus nascetur porta lorem rutrum interdum nisi porta sagittis. Magnis primis aliquet blandit nascetur ex sodales dictumst condimentum proin. Sollicitudin conubia commodo dis pharetra sapien nullam platea porta! Nostra magna commodo augue porta curabitur elementum magnis a integer.
+The purpose of this region is to obtain the newly added generators, which can only be placed on the Nether island,<br>
+and only if you have a specific permission, which is obtained by completing the UNIQUE quest at `/warp nether`.<br>
+(The quest where you need to kill 500 Ghasts)
 
-Velit ipsum egestas, tristique torquent dignissim lacus interdum iaculis. Convallis etiam laoreet cursus; litora aptent fermentum curabitur in. Nisi class at cubilia integer at enim habitant quam. Per mollis ultricies at tortor donec arcu. Orci tellus nec ut; nostra dis morbi id. Placerat cras commodo taciti primis ornare sem.
+‼️ **IMPORTANT:** You can only purchase the netherrack generator from the NPC on the island, not from `/gens`.
 
-Mauris commodo condimentum dui mollis aptent ultricies volutpat senectus in. Nec nunc non semper urna vivamus. Inceptos porttitor pulvinar per placerat sollicitudin feugiat. Porta adipiscing convallis sed sociosqu consectetur sem luctus eleifend. Lorem ullamcorper parturient gravida, hendrerit fermentum potenti. Tortor tempus class eros lectus ridiculus interdum eros malesuada. Ornare fermentum dapibus; sagittis purus cras nostra. Dignissim class risus imperdiet commodo habitant ultrices nam dapibus.
-
-Faucibus neque nec, finibus imperdiet non erat elit. Blandit arcu accumsan iaculis consectetur duis lectus maecenas. Justo habitant felis torquent orci fringilla amet parturient parturient mus. Neque ut praesent vehicula iaculis per nostra dolor. Nullam commodo convallis viverra est massa auctor mauris habitant nam. Orci sed condimentum tempor erat et fames vel pellentesque risus. Justo sem nascetur; tempor ridiculus himenaeos platea. At tortor sem magna eleifend donec varius volutpat dictum. Conubia cubilia phasellus sodales ullamcorper, cubilia ullamcorper volutpat tellus tempus.
-
-Interdum nulla faucibus potenti nisi maximus tellus parturient odio at. Cubilia hendrerit est mi nisl; habitant aliquet aliquet massa. Efficitur nulla semper nisl volutpat; parturient non sit. Class congue orci sodales nulla venenatis vulputate. Id platea eros consequat porttitor vulputate venenatis. Nulla eleifend porttitor habitant sed, amet fames maximus. Etiam sapien rutrum id lectus conubia mattis arcu. Massa curae eu placerat litora cursus. Nec cras cubilia arcu malesuada hendrerit sociosqu urna varius. Libero lectus vitae ornare quisque neque nulla quis tempus.
+Additionally, on this island, you can complete a DAILY quest, which offers various rewards such as:
+- Money
+- 1st points
+- Custom experience (one full level)
+---
+# SOON..
