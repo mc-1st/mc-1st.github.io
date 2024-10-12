@@ -1,6 +1,9 @@
+<div align="center">
+  
 # MC-1ST.RO
-
 ## SKYCOON - NETHER UPDATE (12/10/2024)
+
+</div>
 
 ![image](https://github.com/user-attachments/assets/ebfa9af8-8622-462c-92bb-6a158e5214bb)
 
@@ -24,5 +27,8 @@ Additionally, on this island, you can complete a DAILY quest, which offers vario
 - Custom experience (one full level)
 
 ---
-
+<div align="center">
+  
 ## SOON..
+
+</div>
